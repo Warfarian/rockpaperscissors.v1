@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    background-color: black;
+    color: white;
+    justify-content: center;
+    margin: 0;
+}
+
+button{
+    color: orange;
+    font-weight: bold;
+    background-color: black;
+    border: solid 1px white; 
+}   
+
+.buttons{
+    display: flex;
+    gap:50px;
+    padding-top: 200px;
+}
